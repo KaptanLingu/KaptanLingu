@@ -17,6 +17,6 @@
 
 <p align="center"><strong>Kaptan</strong> Pen<strong>gu</strong> + <strong>Lin</strong>ux = <strong>Kaptan Lingu</strong>.</p>
 
-<p align="center">If you like the projects I made, please do not forget to star. | Yaptığım projler hoşunuza gittiyse lütfen yıldız atmayı unutmayın.</p>
+<p align="center">If you like the projects I made, please do not forget to star. | Yaptığım projeler hoşunuza gittiyse lütfen yıldız atmayı unutmayın.</p>
 
 </div>
